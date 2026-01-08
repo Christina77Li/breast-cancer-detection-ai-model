@@ -3,8 +3,10 @@
 This repository contains the training and evaluation code for a deep learning model
 for **breast cancer detection from screening mammography**.
 
-Slides from my presentation on this project:
-- https://docs.google.com/presentation/d/12bJwUVOoxeTjp7NOjOmRgpeBMi_0jYOmMT9PS8T3LiQ/edit?usp=sharing
+📊 Slides of Current Work :
+
+- [Deep Learning for Breast Cancer Diagnosis on Mammography (PDF)](slides/current_progress_25_12.pdf)
+
 
 This work explores various training strategies to make deep learning models more sample-efficient and to improve their overall classification performance.
 
